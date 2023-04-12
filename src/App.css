@@ -110,3 +110,9 @@
     transform: rotate(360deg);
   }
 }
+.product-item {
+  background-color: #7ccfe6;
+  width: 300px;
+  height: 200px;
+  border: 1px solid red;
+}
